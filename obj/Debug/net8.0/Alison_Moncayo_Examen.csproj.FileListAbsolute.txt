@@ -1,0 +1,14 @@
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\bin\Debug\net8.0\Alison_Moncayo_Examen.exe
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\bin\Debug\net8.0\Alison_Moncayo_Examen.deps.json
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\bin\Debug\net8.0\Alison_Moncayo_Examen.runtimeconfig.json
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\bin\Debug\net8.0\Alison_Moncayo_Examen.dll
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\bin\Debug\net8.0\Alison_Moncayo_Examen.pdb
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.AssemblyInfoInputs.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.AssemblyInfo.cs
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.csproj.CoreCompileInputs.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.dll
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\refint\Alison_Moncayo_Examen.dll
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.pdb
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\Alison_Moncayo_Examen.genruntimeconfig.cache
+C:\Users\comby\OneDrive\Escritorio\WEB Avanzada\Primer Parcial\AlisonMoncayo_Examen\Alison_Moncayo_Examen\obj\Debug\net8.0\ref\Alison_Moncayo_Examen.dll
