@@ -64,7 +64,7 @@ class Program
         Console.WriteLine("");
         Console.WriteLine("Ejercicio 4");
         Console.WriteLine("Llamar al método MostrarInformacion del estudiante1");
-        alumno1.MostrarInformacion();
+        estudiante1.MostrarInformacion();
 
         //Ejercicio 5
         // Crear objeto de tipo EstudianteGraduado e inicializar propiedades
