@@ -42,19 +42,19 @@ class Program
 
         // Ejercicio 3
         // Crear objeto de tipo Estudiante e inicializar propiedades
-        Estudiante alumno1 = new Estudiante();
-        alumno1.Nombre = "Paola";
-        alumno1.Edad = 21;
-        alumno1.Calificacion = 9.5f;
+        Estudiante estudiante1 = new Estudiante();
+        estudiante1.Nombre = "Paola";
+        estudiante1.Edad = 21;
+        estudiante1.Calificacion = 9.5f;
 
         // Imprimir en consola 
         Console.WriteLine("");
         Console.WriteLine("");
         Console.WriteLine("Ejercicio 3");
         Console.WriteLine("Imprimir en consola ");
-        Console.WriteLine($"Nombre: {alumno1.Nombre}");
-        Console.WriteLine($"Edad: {alumno1.Edad}");
-        Console.WriteLine($"Calificación: {alumno1.Calificacion}");
+        Console.WriteLine($"Nombre: {estudiante1.Nombre}");
+        Console.WriteLine($"Edad: {estudiante1.Edad}");
+        Console.WriteLine($"Calificación: {estudiante1.Calificacion}");
 
 
 
@@ -68,19 +68,19 @@ class Program
 
         //Ejercicio 5
         // Crear objeto de tipo EstudianteGraduado e inicializar propiedades
-        EstudianteGraduado alumGraduado = new EstudianteGraduado();
-        alumGraduado.Nombre = "Andrea";
-        alumGraduado.Edad = 19;
-        alumGraduado.Calificacion = 8.5f;
-        alumGraduado.Titulo = "Ingeniero en Sistemas";
+        EstudianteGraduado graduado1 = new EstudianteGraduado();
+        graduado1.Nombre = "Andrea";
+        graduado1.Edad = 19;
+        graduado1.Calificacion = 8.5f;
+        graduado1.Titulo = "Ingeniero en Sistemas";
 
         // Utilizar el método MostrarInformacion para mostrar los detalles del estudiante graduado
         Console.WriteLine("");
         Console.WriteLine("");
         Console.WriteLine("Ejercicio 5");
         Console.WriteLine("Utilizar el método MostrarInformacion para mostrar los detalles del estudiante graduado");
-        alumGraduado.MostrarInformacion();
-        Console.WriteLine($"Título obtenido: {alumGraduado.Titulo}");
+        graduado1.MostrarInformacion();
+        Console.WriteLine($"Título obtenido: {graduado1.Titulo}");
 
 
     }
